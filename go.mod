@@ -2,4 +2,4 @@ module awesomeProject
 
 go 1.22
 
-require github.com/gempir/go-twitch-irc v1.1.0
+require github.com/lib/pq v1.10.9 // indirect
