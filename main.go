@@ -1,6 +1,3 @@
-//gomes3567
-//w6u9na8pejq46btedmwia86zadhzy9
-
 package main
 
 import (
@@ -13,8 +10,8 @@ import (
 
 func main() {
 	// Twitch credentials
-	oauth := "oauth:w6u9na8pejq46btedmwia86zadhzy9" // You can generate one from https://twitchapps.com/tmi/
-	username := "gomes3567"
+	oauth := "oauth:" // You can generate one from https://twitchapps.com/tmi/
+	username := ""
 	channel := "forsen"
 
 	// Connect to Twitch IRC server
